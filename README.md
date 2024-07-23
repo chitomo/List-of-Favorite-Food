@@ -34,5 +34,8 @@ Green<br/>
 Brown <br/>
 White <br/>
 Transparent <br/>
+Black<br/>
+pink<br/>
 Black <br/>
 Orange <br/>
+
