@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="ページ1" id="_yKYIy6DHQ8xr24gxFKP">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-1" target="wRq3-oubJd9hs3WkvjmL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-1" target="wRq3-oubJd9hs3WkvjmL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-1" value="管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-2" target="wRq3-oubJd9hs3WkvjmL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-2" target="wRq3-oubJd9hs3WkvjmL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-2" target="wRq3-oubJd9hs3WkvjmL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRq3-oubJd9hs3WkvjmL-2" target="wRq3-oubJd9hs3WkvjmL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-2" value="利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-8" value="本を購入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-9" value="本を廃棄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-15" value="ユーザ登録" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-16" value="ユーザ登録解除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-17" value="本のレンタル" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRq3-oubJd9hs3WkvjmL-18" value="本の返却" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
